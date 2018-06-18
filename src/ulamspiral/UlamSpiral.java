@@ -78,4 +78,4 @@ public class UlamSpiral extends JPanel {
             f.setVisible(true);
         });
     }
-}
+} 
